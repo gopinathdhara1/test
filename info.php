@@ -1,6 +1,7 @@
 <?php
 //phpinfo();
 ?>
+aba
 <script>
 var fullName="gopi kumar prg nath dhara";
 var firstName = fullName.split(' ').slice(0, -1).join(' ');
